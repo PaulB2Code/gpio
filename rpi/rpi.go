@@ -98,6 +98,9 @@ const (
 	GPIO24 = GPIO_P1_18
 	GPIO27 = GPIO_P1_13
 	GPIO17 = GPIO_P1_11
+	GPIO33 = 33
+	GPIO13 = 13
+	GPIO19 = 19
 )
 
 func initRPi() {
